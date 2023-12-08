@@ -17,3 +17,9 @@ cargo build
 ```bash
 cargo test
 ```
+
+## docs
+
+```bash
+cargo doc --open
+```
