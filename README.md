@@ -12,6 +12,12 @@ cargo run
 cargo build
 ```
 
+## production build
+
+```bash
+cargo build --release
+```
+
 ## test
 
 ```bash
